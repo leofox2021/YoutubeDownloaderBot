@@ -1,4 +1,4 @@
-#YoutubeDownloaderBot
+YoutubeDownloaderBot
 
 A Telegram frontend for YouTube. Development is about to start in the coming days.
 
